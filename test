@@ -1,716 +1,91 @@
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 .
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 ..
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 Africa-
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 America-
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 Antarctica-
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 Arctic-
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 Asia-
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 Atlantic-
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 Australia-
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 Brazil-
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 Canada-
--rw-rw-r-- 1 singhuday primarygroup 2094 Sep 12  2019 CET-
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 Chile-
--rw-rw-r-- 1 singhuday primarygroup 2310 Sep 12  2019 CST6CDT-
--rw-rw-r-- 1 singhuday primarygroup 2416 Sep 12  2019 Cuba-
--rw-rw-r-- 1 singhuday primarygroup 1908 Sep 12  2019 EET-
--rw-rw-r-- 1 singhuday primarygroup 1955 Sep 12  2019 Egypt-
--rw-rw-r-- 1 singhuday primarygroup 3492 Sep 12  2019 Eire-
--rw-rw-r-- 1 singhuday primarygroup  114 Sep 12  2019 EST-
--rw-rw-r-- 1 singhuday primarygroup 2310 Sep 12  2019 EST5EDT-
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 Etc-
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 Europe-
--rw-rw-r-- 1 singhuday primarygroup  116 Sep 12  2019 Factory-
--rw-rw-r-- 1 singhuday primarygroup 3648 Sep 12  2019 GB-
--rw-rw-r-- 1 singhuday primarygroup 3648 Sep 12  2019 GB-Eire-
--rw-rw-r-- 1 singhuday primarygroup  114 Sep 12  2019 GMT-
--rw-rw-r-- 1 singhuday primarygroup  114 Sep 12  2019 GMT+0-
--rw-rw-r-- 1 singhuday primarygroup  114 Sep 12  2019 GMT-0-
--rw-rw-r-- 1 singhuday primarygroup  114 Sep 12  2019 GMT0-
--rw-rw-r-- 1 singhuday primarygroup  114 Sep 12  2019 Greenwich-
--rw-rw-r-- 1 singhuday primarygroup 1193 Sep 12  2019 Hongkong-
--rw-rw-r-- 1 singhuday primarygroup  115 Sep 12  2019 HST-
--rw-rw-r-- 1 singhuday primarygroup 1162 Sep 12  2019 Iceland-
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 Indian-
--rw-rw-r-- 1 singhuday primarygroup 2582 Sep 12  2019 Iran-
--rw-rw-r-- 1 singhuday primarygroup 2288 Sep 12  2019 Israel-
--rw-rw-r-- 1 singhuday primarygroup  482 Sep 12  2019 Jamaica-
--rw-rw-r-- 1 singhuday primarygroup  309 Jun 24  2019 Japan-
--rw-rw-r-- 1 singhuday primarygroup  316 Sep 12  2019 Kwajalein-
--rw-rw-r-- 1 singhuday primarygroup  625 Sep 12  2019 Libya-
--rw-rw-r-- 1 singhuday primarygroup 2094 Sep 12  2019 MET-
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 Mexico-
--rw-rw-r-- 1 singhuday primarygroup  114 Sep 12  2019 MST-
--rw-rw-r-- 1 singhuday primarygroup 2310 Sep 12  2019 MST7MDT-
--rw-rw-r-- 1 singhuday primarygroup 2444 Jun 24  2019 Navajo-
--rw-rw-r-- 1 singhuday primarygroup 2437 Sep 12  2019 NZ-
--rw-rw-r-- 1 singhuday primarygroup 2068 Sep 12  2019 NZ-CHAT-
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 Pacific-
--rw-rw-r-- 1 singhuday primarygroup 2654 Sep 12  2019 Poland-
--rw-rw-r-- 1 singhuday primarygroup 3469 Jun 24  2019 Portugal-
--rw-rw-r-- 1 singhuday primarygroup 3536 Jun 24  2019 posixrules--
--rw-rw-r-- 1 singhuday primarygroup  533 Sep 12  2019 PRC-
--rw-rw-r-- 1 singhuday primarygroup 2310 Sep 12  2019 PST8PDT-
--rw-rw-r-- 1 singhuday primarygroup  761 Sep 12  2019 ROC-
--rw-rw-r-- 1 singhuday primarygroup  493 Sep 12  2019 ROK-
--rw-rw-r-- 1 singhuday primarygroup  383 Sep 12  2019 Singapore-
--rw-rw-r-- 1 singhuday primarygroup 2143 Sep 12  2019 Turkey-
--rw-rw-r-- 1 singhuday primarygroup  114 Sep 12  2019 UCT-
--rw-rw-r-- 1 singhuday primarygroup  114 Sep 12  2019 Universal-
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 US-
--rw-rw-r-- 1 singhuday primarygroup  114 Sep 12  2019 UTC-
--rw-rw-r-- 1 singhuday primarygroup 1905 Sep 12  2019 WET-
--rw-rw-r-- 1 singhuday primarygroup 1535 Jun 24  2019 W-SU-
--rw-rw-r-- 1 singhuday primarygroup  114 Sep 12  2019 Zulu-
+.:
+Africa      Arctic    Australia  CST6CDT  Cuba  EST5EDT  Etc     GB-Eire  GMT-0      HST       Indian  Jamaica    Libya  MST7MDT  NZ-CHAT  PST8PDT  Portugal  Singapore  US         W-SU
+America     Asia      Brazil     Canada   EET   Egypt    Europe  GMT      GMT0       Hongkong  Iran    Japan      MET    Mexico   Navajo   Pacific  ROC       Turkey     UTC        WET
+Antarctica  Atlantic  CET        Chile    EST   Eire     GB      GMT+0    Greenwich  Iceland   Israel  Kwajalein  MST    NZ       PRC      Poland   ROK       UCT        Universal  Zulu
 
 ./Africa:
-total 38
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 .
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 ..
--rw-rw-r-- 1 singhuday primarygroup  148 Sep 12  2019 Abidjan
--rw-rw-r-- 1 singhuday primarygroup  816 Sep 12  2019 Accra
--rw-rw-r-- 1 singhuday primarygroup  251 Sep 12  2019 Addis_Ababa
--rw-rw-r-- 1 singhuday primarygroup  735 Sep 12  2019 Algiers
--rw-rw-r-- 1 singhuday primarygroup  251 Sep 12  2019 Asmara
--rw-rw-r-- 1 singhuday primarygroup  251 Sep 12  2019 Asmera
--rw-rw-r-- 1 singhuday primarygroup  148 Sep 12  2019 Bamako
--rw-rw-r-- 1 singhuday primarygroup  149 Sep 12  2019 Bangui
--rw-rw-r-- 1 singhuday primarygroup  148 Sep 12  2019 Banjul
--rw-rw-r-- 1 singhuday primarygroup  194 Jun 24  2019 Bissau
--rw-rw-r-- 1 singhuday primarygroup  149 Sep 12  2019 Blantyre
--rw-rw-r-- 1 singhuday primarygroup  149 Sep 12  2019 Brazzaville
--rw-rw-r-- 1 singhuday primarygroup  149 Sep 12  2019 Bujumbura
--rw-rw-r-- 1 singhuday primarygroup 1955 Sep 12  2019 Cairo
--rw-rw-r-- 1 singhuday primarygroup 2429 Sep 12  2019 Casablanca
--rw-rw-r-- 1 singhuday primarygroup 2036 Sep 12  2019 Ceuta
--rw-rw-r-- 1 singhuday primarygroup  148 Sep 12  2019 Conakry
--rw-rw-r-- 1 singhuday primarygroup  148 Sep 12  2019 Dakar
--rw-rw-r-- 1 singhuday primarygroup  251 Sep 12  2019 Dar_es_Salaam
--rw-rw-r-- 1 singhuday primarygroup  251 Sep 12  2019 Djibouti
--rw-rw-r-- 1 singhuday primarygroup  149 Sep 12  2019 Douala
--rw-rw-r-- 1 singhuday primarygroup 2295 Sep 12  2019 El_Aaiun
--rw-rw-r-- 1 singhuday primarygroup  148 Sep 12  2019 Freetown
--rw-rw-r-- 1 singhuday primarygroup  149 Sep 12  2019 Gaborone
--rw-rw-r-- 1 singhuday primarygroup  149 Sep 12  2019 Harare
--rw-rw-r-- 1 singhuday primarygroup  246 Sep 12  2019 Johannesburg
--rw-rw-r-- 1 singhuday primarygroup  653 Sep 12  2019 Juba
--rw-rw-r-- 1 singhuday primarygroup  251 Sep 12  2019 Kampala
--rw-rw-r-- 1 singhuday primarygroup  679 Sep 12  2019 Khartoum
--rw-rw-r-- 1 singhuday primarygroup  149 Sep 12  2019 Kigali
--rw-rw-r-- 1 singhuday primarygroup  149 Sep 12  2019 Kinshasa
--rw-rw-r-- 1 singhuday primarygroup  149 Sep 12  2019 Lagos
--rw-rw-r-- 1 singhuday primarygroup  149 Sep 12  2019 Libreville
--rw-rw-r-- 1 singhuday primarygroup  148 Sep 12  2019 Lome
--rw-rw-r-- 1 singhuday primarygroup  149 Sep 12  2019 Luanda
--rw-rw-r-- 1 singhuday primarygroup  149 Sep 12  2019 Lubumbashi
--rw-rw-r-- 1 singhuday primarygroup  149 Sep 12  2019 Lusaka
--rw-rw-r-- 1 singhuday primarygroup  149 Sep 12  2019 Malabo
--rw-rw-r-- 1 singhuday primarygroup  149 Sep 12  2019 Maputo
--rw-rw-r-- 1 singhuday primarygroup  246 Sep 12  2019 Maseru
--rw-rw-r-- 1 singhuday primarygroup  246 Sep 12  2019 Mbabane
--rw-rw-r-- 1 singhuday primarygroup  251 Sep 12  2019 Mogadishu
--rw-rw-r-- 1 singhuday primarygroup  208 Sep 12  2019 Monrovia
--rw-rw-r-- 1 singhuday primarygroup  251 Sep 12  2019 Nairobi
--rw-rw-r-- 1 singhuday primarygroup  199 Sep 12  2019 Ndjamena
--rw-rw-r-- 1 singhuday primarygroup  149 Sep 12  2019 Niamey
--rw-rw-r-- 1 singhuday primarygroup  148 Sep 12  2019 Nouakchott
--rw-rw-r-- 1 singhuday primarygroup  148 Sep 12  2019 Ouagadougou
--rw-rw-r-- 1 singhuday primarygroup  149 Sep 12  2019 Porto-Novo
--rw-rw-r-- 1 singhuday primarygroup  254 Aug  6  2019 Sao_Tome
--rw-rw-r-- 1 singhuday primarygroup  148 Sep 12  2019 Timbuktu
--rw-rw-r-- 1 singhuday primarygroup  625 Sep 12  2019 Tripoli
--rw-rw-r-- 1 singhuday primarygroup  689 Sep 12  2019 Tunis
--rw-rw-r-- 1 singhuday primarygroup  955 Sep 12  2019 Windhoek
+Abidjan      Asmara  Banjul       Bujumbura   Conakry        Douala    Harare        Khartoum  Libreville  Lusaka  Mbabane    Ndjamena     Porto-Novo  Tunis
+Accra        Asmera  Bissau       Cairo       Dakar          El_Aaiun  Johannesburg  Kigali    Lome        Malabo  Mogadishu  Niamey       Sao_Tome    Windhoek
+Addis_Ababa  Bamako  Blantyre     Casablanca  Dar_es_Salaam  Freetown  Juba          Kinshasa  Luanda      Maputo  Monrovia   Nouakchott   Timbuktu
+Algiers      Bangui  Brazzaville  Ceuta       Djibouti       Gaborone  Kampala       Lagos     Lubumbashi  Maseru  Nairobi    Ouagadougou  Tripoli
 
 ./America:
-total 215
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 .
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 ..
--rw-rw-r-- 1 singhuday primarygroup 2356 Jun 24  2019 Adak
--rw-rw-r-- 1 singhuday primarygroup 2371 Jun 24  2019 Anchorage
--rw-rw-r-- 1 singhuday primarygroup  148 Sep 12  2019 Anguilla
--rw-rw-r-- 1 singhuday primarygroup  148 Sep 12  2019 Antigua
--rw-rw-r-- 1 singhuday primarygroup  884 Sep 12  2019 Araguaina
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 Argentina
--rw-rw-r-- 1 singhuday primarygroup  186 Sep 12  2019 Aruba
--rw-rw-r-- 1 singhuday primarygroup 2044 Sep 12  2019 Asuncion
--rw-rw-r-- 1 singhuday primarygroup  336 Jun 24  2019 Atikokan
--rw-rw-r-- 1 singhuday primarygroup 2356 Jun 24  2019 Atka
--rw-rw-r-- 1 singhuday primarygroup 1024 Sep 12  2019 Bahia
--rw-rw-r-- 1 singhuday primarygroup 1546 Sep 12  2019 Bahia_Banderas
--rw-rw-r-- 1 singhuday primarygroup  314 Sep 12  2019 Barbados
--rw-rw-r-- 1 singhuday primarygroup  576 Sep 12  2019 Belem
--rw-rw-r-- 1 singhuday primarygroup  948 Sep 12  2019 Belize
--rw-rw-r-- 1 singhuday primarygroup  298 Jun 24  2019 Blanc-Sablon
--rw-rw-r-- 1 singhuday primarygroup  632 Sep 12  2019 Boa_Vista
--rw-rw-r-- 1 singhuday primarygroup  246 Sep 12  2019 Bogota
--rw-rw-r-- 1 singhuday primarygroup 2394 Jun 24  2019 Boise
--rw-rw-r-- 1 singhuday primarygroup 1076 Sep 12  2019 Buenos_Aires
--rw-rw-r-- 1 singhuday primarygroup 2084 Jun 24  2019 Cambridge_Bay
--rw-rw-r-- 1 singhuday primarygroup 1444 Sep 12  2019 Campo_Grande
--rw-rw-r-- 1 singhuday primarygroup  782 Sep 12  2019 Cancun
--rw-rw-r-- 1 singhuday primarygroup  264 Sep 12  2019 Caracas
--rw-rw-r-- 1 singhuday primarygroup 1076 Sep 12  2019 Catamarca
--rw-rw-r-- 1 singhuday primarygroup  198 Sep 12  2019 Cayenne
--rw-rw-r-- 1 singhuday primarygroup  182 Sep 12  2019 Cayman
--rw-rw-r-- 1 singhuday primarygroup 3576 Jun 24  2019 Chicago
--rw-rw-r-- 1 singhuday primarygroup 1484 Sep 12  2019 Chihuahua
--rw-rw-r-- 1 singhuday primarygroup  336 Jun 24  2019 Coral_Harbour
--rw-rw-r-- 1 singhuday primarygroup 1076 Sep 12  2019 Cordoba
--rw-rw-r-- 1 singhuday primarygroup  316 Sep 12  2019 Costa_Rica
--rw-rw-r-- 1 singhuday primarygroup  208 Sep 12  2019 Creston
--rw-rw-r-- 1 singhuday primarygroup 1416 Sep 12  2019 Cuiaba
--rw-rw-r-- 1 singhuday primarygroup  186 Sep 12  2019 Curacao
--rw-rw-r-- 1 singhuday primarygroup  698 Jun 24  2019 Danmarkshavn
--rw-rw-r-- 1 singhuday primarygroup 2084 Jun 24  2019 Dawson
--rw-rw-r-- 1 singhuday primarygroup 1050 Jun 24  2019 Dawson_Creek
--rw-rw-r-- 1 singhuday primarygroup 2444 Jun 24  2019 Denver
--rw-rw-r-- 1 singhuday primarygroup 2174 Jun 24  2019 Detroit
--rw-rw-r-- 1 singhuday primarygroup  148 Sep 12  2019 Dominica
--rw-rw-r-- 1 singhuday primarygroup 2388 Jun 24  2019 Edmonton
--rw-rw-r-- 1 singhuday primarygroup  656 Sep 12  2019 Eirunepe
--rw-rw-r-- 1 singhuday primarygroup  224 Sep 12  2019 El_Salvador
--rw-rw-r-- 1 singhuday primarygroup 2342 Jun 24  2019 Ensenada
--rw-rw-r-- 1 singhuday primarygroup  716 Sep 12  2019 Fortaleza
--rw-rw-r-- 1 singhuday primarygroup 2240 Jun 24  2019 Fort_Nelson
--rw-rw-r-- 1 singhuday primarygroup 1666 Jun 24  2019 Fort_Wayne
--rw-rw-r-- 1 singhuday primarygroup 2192 Jun 24  2019 Glace_Bay
--rw-rw-r-- 1 singhuday primarygroup 1878 Jun 24  2019 Godthab
--rw-rw-r-- 1 singhuday primarygroup 3210 Jun 24  2019 Goose_Bay
--rw-rw-r-- 1 singhuday primarygroup 1848 Sep 12  2019 Grand_Turk
--rw-rw-r-- 1 singhuday primarygroup  148 Sep 12  2019 Grenada
--rw-rw-r-- 1 singhuday primarygroup  148 Sep 12  2019 Guadeloupe
--rw-rw-r-- 1 singhuday primarygroup  280 Sep 12  2019 Guatemala
--rw-rw-r-- 1 singhuday primarygroup  246 Sep 12  2019 Guayaquil
--rw-rw-r-- 1 singhuday primarygroup  236 Sep 12  2019 Guyana
--rw-rw-r-- 1 singhuday primarygroup 3424 Jun 24  2019 Halifax
--rw-rw-r-- 1 singhuday primarygroup 2416 Sep 12  2019 Havana
--rw-rw-r-- 1 singhuday primarygroup  416 Sep 12  2019 Hermosillo
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 Indiana
--rw-rw-r-- 1 singhuday primarygroup 1666 Jun 24  2019 Indianapolis
--rw-rw-r-- 1 singhuday primarygroup 1894 Sep 12  2019 Inuvik
--rw-rw-r-- 1 singhuday primarygroup 2032 Jun 24  2019 Iqaluit
--rw-rw-r-- 1 singhuday primarygroup  482 Sep 12  2019 Jamaica
--rw-rw-r-- 1 singhuday primarygroup 1048 Sep 12  2019 Jujuy
--rw-rw-r-- 1 singhuday primarygroup 2353 Jun 24  2019 Juneau
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 Kentucky
--rw-rw-r-- 1 singhuday primarygroup 2428 Jun 24  2019 Knox_IN
--rw-rw-r-- 1 singhuday primarygroup  186 Sep 12  2019 Kralendijk
--rw-rw-r-- 1 singhuday primarygroup  232 Sep 12  2019 La_Paz
--rw-rw-r-- 1 singhuday primarygroup  406 Sep 12  2019 Lima
--rw-rw-r-- 1 singhuday primarygroup 2836 Jun 24  2019 Los_Angeles
--rw-rw-r-- 1 singhuday primarygroup 2772 Jun 24  2019 Louisville
--rw-rw-r-- 1 singhuday primarygroup  186 Sep 12  2019 Lower_Princes
--rw-rw-r-- 1 singhuday primarygroup  744 Sep 12  2019 Maceio
--rw-rw-r-- 1 singhuday primarygroup  430 Sep 12  2019 Managua
--rw-rw-r-- 1 singhuday primarygroup  604 Sep 12  2019 Manaus
--rw-rw-r-- 1 singhuday primarygroup  148 Sep 12  2019 Marigot
--rw-rw-r-- 1 singhuday primarygroup  232 Sep 12  2019 Martinique
--rw-rw-r-- 1 singhuday primarygroup 1390 Sep 12  2019 Matamoros
--rw-rw-r-- 1 singhuday primarygroup 1526 Sep 12  2019 Mazatlan
--rw-rw-r-- 1 singhuday primarygroup 1076 Sep 12  2019 Mendoza
--rw-rw-r-- 1 singhuday primarygroup 2274 Jun 24  2019 Menominee
--rw-rw-r-- 1 singhuday primarygroup 1422 Sep 12  2019 Merida
--rw-rw-r-- 1 singhuday primarygroup 1423 Aug  6  2019 Metlakatla
--rw-rw-r-- 1 singhuday primarygroup 1584 Sep 12  2019 Mexico_City
--rw-rw-r-- 1 singhuday primarygroup 1666 Sep 12  2019 Miquelon
--rw-rw-r-- 1 singhuday primarygroup 3154 Jun 24  2019 Moncton
--rw-rw-r-- 1 singhuday primarygroup 1390 Sep 12  2019 Monterrey
--rw-rw-r-- 1 singhuday primarygroup 1510 Sep 12  2019 Montevideo
--rw-rw-r-- 1 singhuday primarygroup 3494 Jun 24  2019 Montreal
--rw-rw-r-- 1 singhuday primarygroup  148 Sep 12  2019 Montserrat
--rw-rw-r-- 1 singhuday primarygroup 2258 Sep 12  2019 Nassau
--rw-rw-r-- 1 singhuday primarygroup 3536 Jun 24  2019 New_York
--rw-rw-r-- 1 singhuday primarygroup 2122 Jun 24  2019 Nipigon
--rw-rw-r-- 1 singhuday primarygroup 2367 Jun 24  2019 Nome
--rw-rw-r-- 1 singhuday primarygroup  716 Sep 12  2019 Noronha
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 North_Dakota
--rw-rw-r-- 1 singhuday primarygroup 1484 Sep 12  2019 Ojinaga
--rw-rw-r-- 1 singhuday primarygroup  182 Sep 12  2019 Panama
--rw-rw-r-- 1 singhuday primarygroup 2094 Jun 24  2019 Pangnirtung
--rw-rw-r-- 1 singhuday primarygroup  262 Sep 12  2019 Paramaribo
--rw-rw-r-- 1 singhuday primarygroup  328 Sep 12  2019 Phoenix
--rw-rw-r-- 1 singhuday primarygroup 1434 Sep 12  2019 Port-au-Prince
--rw-rw-r-- 1 singhuday primarygroup  628 Sep 12  2019 Porto_Acre
--rw-rw-r-- 1 singhuday primarygroup  148 Sep 12  2019 Port_of_Spain
--rw-rw-r-- 1 singhuday primarygroup  576 Sep 12  2019 Porto_Velho
--rw-rw-r-- 1 singhuday primarygroup  246 Jun 24  2019 Puerto_Rico
--rw-rw-r-- 1 singhuday primarygroup 1902 Jun 24  2019 Punta_Arenas
--rw-rw-r-- 1 singhuday primarygroup 2122 Jun 24  2019 Rainy_River
--rw-rw-r-- 1 singhuday primarygroup 1892 Sep 12  2019 Rankin_Inlet
--rw-rw-r-- 1 singhuday primarygroup  716 Sep 12  2019 Recife
--rw-rw-r-- 1 singhuday primarygroup  980 Jun 24  2019 Regina
--rw-rw-r-- 1 singhuday primarygroup 1892 Sep 12  2019 Resolute
--rw-rw-r-- 1 singhuday primarygroup  628 Sep 12  2019 Rio_Branco
--rw-rw-r-- 1 singhuday primarygroup 1076 Sep 12  2019 Rosario
--rw-rw-r-- 1 singhuday primarygroup 2342 Jun 24  2019 Santa_Isabel
--rw-rw-r-- 1 singhuday primarygroup  602 Sep 12  2019 Santarem
--rw-rw-r-- 1 singhuday primarygroup 2529 Jun 24  2019 Santiago
--rw-rw-r-- 1 singhuday primarygroup  458 Sep 12  2019 Santo_Domingo
--rw-rw-r-- 1 singhuday primarygroup 1444 Sep 12  2019 Sao_Paulo
--rw-rw-r-- 1 singhuday primarygroup 1916 Jun 24  2019 Scoresbysund
--rw-rw-r-- 1 singhuday primarygroup 2444 Jun 24  2019 Shiprock
--rw-rw-r-- 1 singhuday primarygroup 2329 Jun 24  2019 Sitka
--rw-rw-r-- 1 singhuday primarygroup  148 Sep 12  2019 St_Barthelemy
--rw-rw-r-- 1 singhuday primarygroup 3655 Jun 24  2019 St_Johns
--rw-rw-r-- 1 singhuday primarygroup  148 Sep 12  2019 St_Kitts
--rw-rw-r-- 1 singhuday primarygroup  148 Sep 12  2019 St_Lucia
--rw-rw-r-- 1 singhuday primarygroup  148 Sep 12  2019 St_Thomas
--rw-rw-r-- 1 singhuday primarygroup  148 Sep 12  2019 St_Vincent
--rw-rw-r-- 1 singhuday primarygroup  560 Jun 24  2019 Swift_Current
--rw-rw-r-- 1 singhuday primarygroup  252 Sep 12  2019 Tegucigalpa
--rw-rw-r-- 1 singhuday primarygroup 1502 Sep 12  2019 Thule
--rw-rw-r-- 1 singhuday primarygroup 2202 Jun 24  2019 Thunder_Bay
--rw-rw-r-- 1 singhuday primarygroup 2342 Jun 24  2019 Tijuana
--rw-rw-r-- 1 singhuday primarygroup 3494 Jun 24  2019 Toronto
--rw-rw-r-- 1 singhuday primarygroup  148 Sep 12  2019 Tortola
--rw-rw-r-- 1 singhuday primarygroup 2892 Jun 24  2019 Vancouver
--rw-rw-r-- 1 singhuday primarygroup  148 Sep 12  2019 Virgin
--rw-rw-r-- 1 singhuday primarygroup 2084 Jun 24  2019 Whitehorse
--rw-rw-r-- 1 singhuday primarygroup 2868 Sep 12  2019 Winnipeg
--rw-rw-r-- 1 singhuday primarygroup 2305 Jun 24  2019 Yakutat
--rw-rw-r-- 1 singhuday primarygroup 1966 Jun 24  2019 Yellowknife
+Adak            Barbados       Catamarca      Dawson        Glace_Bay   Indiana       Los_Angeles    Merida       Nome            Porto_Velho   Santiago       Swift_Current  Yellowknife
+Anchorage       Belem          Cayenne        Dawson_Creek  Godthab     Indianapolis  Louisville     Metlakatla   Noronha         Puerto_Rico   Santo_Domingo  Tegucigalpa
+Anguilla        Belize         Cayman         Denver        Goose_Bay   Inuvik        Lower_Princes  Mexico_City  North_Dakota    Punta_Arenas  Sao_Paulo      Thule
+Antigua         Blanc-Sablon   Chicago        Detroit       Grand_Turk  Iqaluit       Maceio         Miquelon     Nuuk            Rainy_River   Scoresbysund   Thunder_Bay
+Araguaina       Boa_Vista      Chihuahua      Dominica      Grenada     Jamaica       Managua        Moncton      Ojinaga         Rankin_Inlet  Shiprock       Tijuana
+Argentina       Bogota         Coral_Harbour  Edmonton      Guadeloupe  Jujuy         Manaus         Monterrey    Panama          Recife        Sitka          Toronto
+Aruba           Boise          Cordoba        Eirunepe      Guatemala   Juneau        Marigot        Montevideo   Pangnirtung     Regina        St_Barthelemy  Tortola
+Asuncion        Buenos_Aires   Costa_Rica     El_Salvador   Guayaquil   Kentucky      Martinique     Montreal     Paramaribo      Resolute      St_Johns       Vancouver
+Atikokan        Cambridge_Bay  Creston        Ensenada      Guyana      Knox_IN       Matamoros      Montserrat   Phoenix         Rio_Branco    St_Kitts       Virgin
+Atka            Campo_Grande   Cuiaba         Fort_Nelson   Halifax     Kralendijk    Mazatlan       Nassau       Port-au-Prince  Rosario       St_Lucia       Whitehorse
+Bahia           Cancun         Curacao        Fort_Wayne    Havana      La_Paz        Mendoza        New_York     Port_of_Spain   Santa_Isabel  St_Thomas      Winnipeg
+Bahia_Banderas  Caracas        Danmarkshavn   Fortaleza     Hermosillo  Lima          Menominee      Nipigon      Porto_Acre      Santarem      St_Vincent     Yakutat
 
 ./America/Argentina:
-total 20
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 .
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 ..
--rw-rw-r-- 1 singhuday primarygroup 1076 Sep 12  2019 Buenos_Aires
--rw-rw-r-- 1 singhuday primarygroup 1076 Sep 12  2019 Catamarca
--rw-rw-r-- 1 singhuday primarygroup 1076 Sep 12  2019 ComodRivadavia
--rw-rw-r-- 1 singhuday primarygroup 1076 Sep 12  2019 Cordoba
--rw-rw-r-- 1 singhuday primarygroup 1048 Sep 12  2019 Jujuy
--rw-rw-r-- 1 singhuday primarygroup 1090 Sep 12  2019 La_Rioja
--rw-rw-r-- 1 singhuday primarygroup 1076 Sep 12  2019 Mendoza
--rw-rw-r-- 1 singhuday primarygroup 1076 Sep 12  2019 Rio_Gallegos
--rw-rw-r-- 1 singhuday primarygroup 1048 Sep 12  2019 Salta
--rw-rw-r-- 1 singhuday primarygroup 1090 Sep 12  2019 San_Juan
--rw-rw-r-- 1 singhuday primarygroup 1102 Sep 12  2019 San_Luis
--rw-rw-r-- 1 singhuday primarygroup 1104 Sep 12  2019 Tucuman
--rw-rw-r-- 1 singhuday primarygroup 1076 Sep 12  2019 Ushuaia
+Buenos_Aires  Catamarca  ComodRivadavia  Cordoba  Jujuy  La_Rioja  Mendoza  Rio_Gallegos  Salta  San_Juan  San_Luis  Tucuman  Ushuaia
 
 ./America/Indiana:
-total 16
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 .
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 ..
--rw-rw-r-- 1 singhuday primarygroup 1666 Jun 24  2019 Indianapolis
--rw-rw-r-- 1 singhuday primarygroup 2428 Jun 24  2019 Knox
--rw-rw-r-- 1 singhuday primarygroup 1722 Jun 24  2019 Marengo
--rw-rw-r-- 1 singhuday primarygroup 1904 Jun 24  2019 Petersburg
--rw-rw-r-- 1 singhuday primarygroup 1726 Jun 24  2019 Tell_City
--rw-rw-r-- 1 singhuday primarygroup 1414 Jun 24  2019 Vevay
--rw-rw-r-- 1 singhuday primarygroup 1694 Jun 24  2019 Vincennes
--rw-rw-r-- 1 singhuday primarygroup 1778 Jun 24  2019 Winamac
+Indianapolis  Knox  Marengo  Petersburg  Tell_City  Vevay  Vincennes  Winamac
 
 ./America/Kentucky:
-total 6
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 .
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 ..
--rw-rw-r-- 1 singhuday primarygroup 2772 Jun 24  2019 Louisville
--rw-rw-r-- 1 singhuday primarygroup 2352 Jun 24  2019 Monticello
+Louisville  Monticello
 
 ./America/North_Dakota:
-total 8
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 .
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 ..
--rw-rw-r-- 1 singhuday primarygroup 2380 Jun 24  2019 Beulah
--rw-rw-r-- 1 singhuday primarygroup 2380 Jun 24  2019 Center
--rw-rw-r-- 1 singhuday primarygroup 2380 Jun 24  2019 New_Salem
+Beulah  Center  New_Salem
 
 ./Antarctica:
-total 13
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 .
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 ..
--rw-rw-r-- 1 singhuday primarygroup  297 Jun 24  2019 Casey
--rw-rw-r-- 1 singhuday primarygroup  297 Jun 24  2019 Davis
--rw-rw-r-- 1 singhuday primarygroup  194 Sep 12  2019 DumontDUrville
--rw-rw-r-- 1 singhuday primarygroup 1520 Sep 12  2019 Macquarie
--rw-rw-r-- 1 singhuday primarygroup  199 Sep 12  2019 Mawson
--rw-rw-r-- 1 singhuday primarygroup 2437 Sep 12  2019 McMurdo
--rw-rw-r-- 1 singhuday primarygroup 1418 Jun 24  2019 Palmer
--rw-rw-r-- 1 singhuday primarygroup  164 Sep 12  2019 Rothera
--rw-rw-r-- 1 singhuday primarygroup 2437 Sep 12  2019 South_Pole
--rw-rw-r-- 1 singhuday primarygroup  165 Sep 12  2019 Syowa
--rw-rw-r-- 1 singhuday primarygroup 1162 Jun 24  2019 Troll
--rw-rw-r-- 1 singhuday primarygroup  165 Sep 12  2019 Vostok
+Casey  Davis  DumontDUrville  Macquarie  Mawson  McMurdo  Palmer  Rothera  South_Pole  Syowa  Troll  Vostok
 
 ./Arctic:
-total 3
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 .
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 ..
--rw-rw-r-- 1 singhuday primarygroup 2228 Sep 12  2019 Longyearbyen
+Longyearbyen
 
 ./Asia:
-total 107
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 .
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 ..
--rw-rw-r-- 1 singhuday primarygroup  165 Sep 12  2019 Aden
--rw-rw-r-- 1 singhuday primarygroup  997 Sep 12  2019 Almaty
--rw-rw-r-- 1 singhuday primarygroup 1853 Sep 12  2019 Amman
--rw-rw-r-- 1 singhuday primarygroup 1188 Sep 12  2019 Anadyr
--rw-rw-r-- 1 singhuday primarygroup  983 Sep 12  2019 Aqtau
--rw-rw-r-- 1 singhuday primarygroup 1011 Sep 12  2019 Aqtobe
--rw-rw-r-- 1 singhuday primarygroup  619 Sep 12  2019 Ashgabat
--rw-rw-r-- 1 singhuday primarygroup  619 Sep 12  2019 Ashkhabad
--rw-rw-r-- 1 singhuday primarygroup  991 Sep 12  2019 Atyrau
--rw-rw-r-- 1 singhuday primarygroup  983 Sep 12  2019 Baghdad
--rw-rw-r-- 1 singhuday primarygroup  199 Sep 12  2019 Bahrain
--rw-rw-r-- 1 singhuday primarygroup 1227 Sep 12  2019 Baku
--rw-rw-r-- 1 singhuday primarygroup  199 Sep 12  2019 Bangkok
--rw-rw-r-- 1 singhuday primarygroup 1221 Sep 12  2019 Barnaul
--rw-rw-r-- 1 singhuday primarygroup 2154 Sep 12  2019 Beirut
--rw-rw-r-- 1 singhuday primarygroup  983 Sep 12  2019 Bishkek
--rw-rw-r-- 1 singhuday primarygroup  203 Sep 12  2019 Brunei
--rw-rw-r-- 1 singhuday primarygroup  285 Sep 12  2019 Calcutta
--rw-rw-r-- 1 singhuday primarygroup 1221 Sep 12  2019 Chita
--rw-rw-r-- 1 singhuday primarygroup  949 Sep 12  2019 Choibalsan
--rw-rw-r-- 1 singhuday primarygroup  533 Sep 12  2019 Chongqing
--rw-rw-r-- 1 singhuday primarygroup  533 Sep 12  2019 Chungking
--rw-rw-r-- 1 singhuday primarygroup  372 Sep 12  2019 Colombo
--rw-rw-r-- 1 singhuday primarygroup  337 Sep 12  2019 Dacca
--rw-rw-r-- 1 singhuday primarygroup 2294 Sep 12  2019 Damascus
--rw-rw-r-- 1 singhuday primarygroup  337 Sep 12  2019 Dhaka
--rw-rw-r-- 1 singhuday primarygroup  227 Sep 12  2019 Dili
--rw-rw-r-- 1 singhuday primarygroup  165 Sep 12  2019 Dubai
--rw-rw-r-- 1 singhuday primarygroup  591 Sep 12  2019 Dushanbe
--rw-rw-r-- 1 singhuday primarygroup 2028 Jun 24  2019 Famagusta
--rw-rw-r-- 1 singhuday primarygroup 2316 Sep 12  2019 Gaza
--rw-rw-r-- 1 singhuday primarygroup  533 Sep 12  2019 Harbin
--rw-rw-r-- 1 singhuday primarygroup 2344 Sep 12  2019 Hebron
--rw-rw-r-- 1 singhuday primarygroup  351 Sep 12  2019 Ho_Chi_Minh
--rw-rw-r-- 1 singhuday primarygroup 1193 Sep 12  2019 Hong_Kong
--rw-rw-r-- 1 singhuday primarygroup  891 Sep 12  2019 Hovd
--rw-rw-r-- 1 singhuday primarygroup 1243 Sep 12  2019 Irkutsk
--rw-rw-r-- 1 singhuday primarygroup 2143 Sep 12  2019 Istanbul
--rw-rw-r-- 1 singhuday primarygroup  355 Sep 12  2019 Jakarta
--rw-rw-r-- 1 singhuday primarygroup  221 Sep 12  2019 Jayapura
--rw-rw-r-- 1 singhuday primarygroup 2288 Sep 12  2019 Jerusalem
--rw-rw-r-- 1 singhuday primarygroup  208 Sep 12  2019 Kabul
--rw-rw-r-- 1 singhuday primarygroup 1166 Sep 12  2019 Kamchatka
--rw-rw-r-- 1 singhuday primarygroup  379 Sep 12  2019 Karachi
--rw-rw-r-- 1 singhuday primarygroup  165 Sep 12  2019 Kashgar
--rw-rw-r-- 1 singhuday primarygroup  212 Sep 12  2019 Kathmandu
--rw-rw-r-- 1 singhuday primarygroup  212 Sep 12  2019 Katmandu
--rw-rw-r-- 1 singhuday primarygroup 1271 Sep 12  2019 Khandyga
--rw-rw-r-- 1 singhuday primarygroup  285 Sep 12  2019 Kolkata
--rw-rw-r-- 1 singhuday primarygroup 1207 Sep 12  2019 Krasnoyarsk
--rw-rw-r-- 1 singhuday primarygroup  383 Sep 12  2019 Kuala_Lumpur
--rw-rw-r-- 1 singhuday primarygroup  483 Sep 12  2019 Kuching
--rw-rw-r-- 1 singhuday primarygroup  165 Sep 12  2019 Kuwait
--rw-rw-r-- 1 singhuday primarygroup 1227 Sep 12  2019 Macao
--rw-rw-r-- 1 singhuday primarygroup 1227 Sep 12  2019 Macau
--rw-rw-r-- 1 singhuday primarygroup 1222 Sep 12  2019 Magadan
--rw-rw-r-- 1 singhuday primarygroup  254 Sep 12  2019 Makassar
--rw-rw-r-- 1 singhuday primarygroup  328 Sep 12  2019 Manila
--rw-rw-r-- 1 singhuday primarygroup  165 Sep 12  2019 Muscat
--rw-rw-r-- 1 singhuday primarygroup 2002 Jun 24  2019 Nicosia
--rw-rw-r-- 1 singhuday primarygroup 1165 Sep 12  2019 Novokuznetsk
--rw-rw-r-- 1 singhuday primarygroup 1221 Sep 12  2019 Novosibirsk
--rw-rw-r-- 1 singhuday primarygroup 1207 Sep 12  2019 Omsk
--rw-rw-r-- 1 singhuday primarygroup 1005 Sep 12  2019 Oral
--rw-rw-r-- 1 singhuday primarygroup  199 Sep 12  2019 Phnom_Penh
--rw-rw-r-- 1 singhuday primarygroup  353 Sep 12  2019 Pontianak
--rw-rw-r-- 1 singhuday primarygroup  237 Sep 12  2019 Pyongyang
--rw-rw-r-- 1 singhuday primarygroup  199 Sep 12  2019 Qatar
--rw-rw-r-- 1 singhuday primarygroup 1011 Sep 12  2019 Qostanay
--rw-rw-r-- 1 singhuday primarygroup 1025 Sep 12  2019 Qyzylorda
--rw-rw-r-- 1 singhuday primarygroup  268 Sep 12  2019 Rangoon
--rw-rw-r-- 1 singhuday primarygroup  165 Sep 12  2019 Riyadh
--rw-rw-r-- 1 singhuday primarygroup  351 Sep 12  2019 Saigon
--rw-rw-r-- 1 singhuday primarygroup 1202 Sep 12  2019 Sakhalin
--rw-rw-r-- 1 singhuday primarygroup  577 Sep 12  2019 Samarkand
--rw-rw-r-- 1 singhuday primarygroup  493 Sep 12  2019 Seoul
--rw-rw-r-- 1 singhuday primarygroup  533 Sep 12  2019 Shanghai
--rw-rw-r-- 1 singhuday primarygroup  383 Sep 12  2019 Singapore
--rw-rw-r-- 1 singhuday primarygroup 1208 Sep 12  2019 Srednekolymsk
--rw-rw-r-- 1 singhuday primarygroup  761 Sep 12  2019 Taipei
--rw-rw-r-- 1 singhuday primarygroup  591 Sep 12  2019 Tashkent
--rw-rw-r-- 1 singhuday primarygroup 1035 Sep 12  2019 Tbilisi
--rw-rw-r-- 1 singhuday primarygroup 2582 Sep 12  2019 Tehran
--rw-rw-r-- 1 singhuday primarygroup 2288 Sep 12  2019 Tel_Aviv
--rw-rw-r-- 1 singhuday primarygroup  203 Sep 12  2019 Thimbu
--rw-rw-r-- 1 singhuday primarygroup  203 Sep 12  2019 Thimphu
--rw-rw-r-- 1 singhuday primarygroup  309 Jun 24  2019 Tokyo
--rw-rw-r-- 1 singhuday primarygroup 1221 Sep 12  2019 Tomsk
--rw-rw-r-- 1 singhuday primarygroup  254 Sep 12  2019 Ujung_Pandang
--rw-rw-r-- 1 singhuday primarygroup  891 Sep 12  2019 Ulaanbaatar
--rw-rw-r-- 1 singhuday primarygroup  891 Sep 12  2019 Ulan_Bator
--rw-rw-r-- 1 singhuday primarygroup  165 Sep 12  2019 Urumqi
--rw-rw-r-- 1 singhuday primarygroup 1252 Sep 12  2019 Ust-Nera
--rw-rw-r-- 1 singhuday primarygroup  199 Sep 12  2019 Vientiane
--rw-rw-r-- 1 singhuday primarygroup 1208 Sep 12  2019 Vladivostok
--rw-rw-r-- 1 singhuday primarygroup 1207 Sep 12  2019 Yakutsk
--rw-rw-r-- 1 singhuday primarygroup  268 Sep 12  2019 Yangon
--rw-rw-r-- 1 singhuday primarygroup 1243 Sep 12  2019 Yekaterinburg
--rw-rw-r-- 1 singhuday primarygroup 1151 Sep 12  2019 Yerevan
+Aden      Ashkhabad  Beirut      Chungking  Dushanbe     Hovd       Kamchatka  Krasnoyarsk   Makassar      Oral        Rangoon    Singapore      Thimbu         Urumqi         Yerevan
+Almaty    Atyrau     Bishkek     Colombo    Famagusta    Irkutsk    Karachi    Kuala_Lumpur  Manila        Phnom_Penh  Riyadh     Srednekolymsk  Thimphu        Ust-Nera
+Amman     Baghdad    Brunei      Dacca      Gaza         Istanbul   Kashgar    Kuching       Muscat        Pontianak   Saigon     Taipei         Tokyo          Vientiane
+Anadyr    Bahrain    Calcutta    Damascus   Harbin       Jakarta    Kathmandu  Kuwait        Nicosia       Pyongyang   Sakhalin   Tashkent       Tomsk          Vladivostok
+Aqtau     Baku       Chita       Dhaka      Hebron       Jayapura   Katmandu   Macao         Novokuznetsk  Qatar       Samarkand  Tbilisi        Ujung_Pandang  Yakutsk
+Aqtobe    Bangkok    Choibalsan  Dili       Ho_Chi_Minh  Jerusalem  Khandyga   Macau         Novosibirsk   Qostanay    Seoul      Tehran         Ulaanbaatar    Yangon
+Ashgabat  Barnaul    Chongqing   Dubai      Hong_Kong    Kabul      Kolkata    Magadan       Omsk          Qyzylorda   Shanghai   Tel_Aviv       Ulan_Bator     Yekaterinburg
 
 ./Atlantic:
-total 22
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 .
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 ..
--rw-rw-r-- 1 singhuday primarygroup 3484 Jun 24  2019 Azores
--rw-rw-r-- 1 singhuday primarygroup 1978 Sep 12  2019 Bermuda
--rw-rw-r-- 1 singhuday primarygroup 1897 Jun 24  2019 Canary
--rw-rw-r-- 1 singhuday primarygroup  270 Jun 24  2019 Cape_Verde
--rw-rw-r-- 1 singhuday primarygroup 1815 Jun 24  2019 Faeroe
--rw-rw-r-- 1 singhuday primarygroup 1815 Jun 24  2019 Faroe
--rw-rw-r-- 1 singhuday primarygroup 2228 Sep 12  2019 Jan_Mayen
--rw-rw-r-- 1 singhuday primarygroup 3475 Jun 24  2019 Madeira
--rw-rw-r-- 1 singhuday primarygroup 1162 Sep 12  2019 Reykjavik
--rw-rw-r-- 1 singhuday primarygroup  164 Sep 12  2019 South_Georgia
--rw-rw-r-- 1 singhuday primarygroup 1214 Sep 12  2019 Stanley
--rw-rw-r-- 1 singhuday primarygroup  148 Sep 12  2019 St_Helena
+Azores  Bermuda  Canary  Cape_Verde  Faeroe  Faroe  Jan_Mayen  Madeira  Reykjavik  South_Georgia  St_Helena  Stanley
 
 ./Australia:
-total 41
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 .
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 ..
--rw-rw-r-- 1 singhuday primarygroup 2204 Sep 12  2019 ACT
--rw-rw-r-- 1 singhuday primarygroup 2222 Sep 12  2019 Adelaide
--rw-rw-r-- 1 singhuday primarygroup  433 Sep 12  2019 Brisbane
--rw-rw-r-- 1 singhuday primarygroup 2243 Sep 12  2019 Broken_Hill
--rw-rw-r-- 1 singhuday primarygroup 2204 Sep 12  2019 Canberra
--rw-rw-r-- 1 singhuday primarygroup 2204 Sep 12  2019 Currie
--rw-rw-r-- 1 singhuday primarygroup  304 Sep 12  2019 Darwin
--rw-rw-r-- 1 singhuday primarygroup  484 Sep 12  2019 Eucla
--rw-rw-r-- 1 singhuday primarygroup 2316 Sep 12  2019 Hobart
--rw-rw-r-- 1 singhuday primarygroup 1860 Sep 12  2019 LHI
--rw-rw-r-- 1 singhuday primarygroup  489 Sep 12  2019 Lindeman
--rw-rw-r-- 1 singhuday primarygroup 1860 Sep 12  2019 Lord_Howe
--rw-rw-r-- 1 singhuday primarygroup 2204 Sep 12  2019 Melbourne
--rw-rw-r-- 1 singhuday primarygroup  304 Sep 12  2019 North
--rw-rw-r-- 1 singhuday primarygroup 2204 Sep 12  2019 NSW
--rw-rw-r-- 1 singhuday primarygroup  460 Sep 12  2019 Perth
--rw-rw-r-- 1 singhuday primarygroup  433 Sep 12  2019 Queensland
--rw-rw-r-- 1 singhuday primarygroup 2222 Sep 12  2019 South
--rw-rw-r-- 1 singhuday primarygroup 2204 Sep 12  2019 Sydney
--rw-rw-r-- 1 singhuday primarygroup 2316 Sep 12  2019 Tasmania
--rw-rw-r-- 1 singhuday primarygroup 2204 Sep 12  2019 Victoria
--rw-rw-r-- 1 singhuday primarygroup  460 Sep 12  2019 West
--rw-rw-r-- 1 singhuday primarygroup 2243 Sep 12  2019 Yancowinna
+ACT       Brisbane     Canberra  Darwin  Hobart  Lindeman   Melbourne  North  Queensland  Sydney    Victoria  Yancowinna
+Adelaide  Broken_Hill  Currie    Eucla   LHI     Lord_Howe  NSW        Perth  South       Tasmania  West
 
 ./Brazil:
-total 5
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 .
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 ..
--rw-rw-r-- 1 singhuday primarygroup  628 Sep 12  2019 Acre
--rw-rw-r-- 1 singhuday primarygroup  716 Sep 12  2019 DeNoronha
--rw-rw-r-- 1 singhuday primarygroup 1444 Sep 12  2019 East
--rw-rw-r-- 1 singhuday primarygroup  604 Sep 12  2019 West
+Acre  DeNoronha  East  West
 
 ./Canada:
-total 23
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 .
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 ..
--rw-rw-r-- 1 singhuday primarygroup 3424 Jun 24  2019 Atlantic
--rw-rw-r-- 1 singhuday primarygroup 2868 Sep 12  2019 Central
--rw-rw-r-- 1 singhuday primarygroup 3494 Jun 24  2019 Eastern
--rw-rw-r-- 1 singhuday primarygroup 2388 Jun 24  2019 Mountain
--rw-rw-r-- 1 singhuday primarygroup 3655 Jun 24  2019 Newfoundland
--rw-rw-r-- 1 singhuday primarygroup 2892 Jun 24  2019 Pacific
--rw-rw-r-- 1 singhuday primarygroup  980 Jun 24  2019 Saskatchewan
--rw-rw-r-- 1 singhuday primarygroup 2084 Jun 24  2019 Yukon
+Atlantic  Central  Eastern  Mountain  Newfoundland  Pacific  Saskatchewan  Yukon
 
 ./Chile:
-total 5
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 .
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 ..
--rw-rw-r-- 1 singhuday primarygroup 2529 Jun 24  2019 Continental
--rw-rw-r-- 1 singhuday primarygroup 2233 Jun 24  2019 EasterIsland
+Continental  EasterIsland
 
 ./Etc:
-total 18
-drwxrwxr-x 1 singhuday primarygroup   0 Jan  1  1970 .
-drwxrwxr-x 1 singhuday primarygroup   0 Jan  1  1970 ..
--rw-rw-r-- 1 singhuday primarygroup 114 Sep 12  2019 GMT
--rw-rw-r-- 1 singhuday primarygroup 114 Sep 12  2019 GMT+0
--rw-rw-r-- 1 singhuday primarygroup 114 Sep 12  2019 GMT-0
--rw-rw-r-- 1 singhuday primarygroup 114 Sep 12  2019 GMT0
--rw-rw-r-- 1 singhuday primarygroup 116 Sep 12  2019 GMT+1
--rw-rw-r-- 1 singhuday primarygroup 117 Sep 12  2019 GMT-1
--rw-rw-r-- 1 singhuday primarygroup 117 Sep 12  2019 GMT+10
--rw-rw-r-- 1 singhuday primarygroup 118 Sep 12  2019 GMT-10
--rw-rw-r-- 1 singhuday primarygroup 117 Sep 12  2019 GMT+11
--rw-rw-r-- 1 singhuday primarygroup 118 Sep 12  2019 GMT-11
--rw-rw-r-- 1 singhuday primarygroup 117 Sep 12  2019 GMT+12
--rw-rw-r-- 1 singhuday primarygroup 118 Sep 12  2019 GMT-12
--rw-rw-r-- 1 singhuday primarygroup 118 Sep 12  2019 GMT-13
--rw-rw-r-- 1 singhuday primarygroup 118 Sep 12  2019 GMT-14
--rw-rw-r-- 1 singhuday primarygroup 116 Sep 12  2019 GMT+2
--rw-rw-r-- 1 singhuday primarygroup 117 Sep 12  2019 GMT-2
--rw-rw-r-- 1 singhuday primarygroup 116 Sep 12  2019 GMT+3
--rw-rw-r-- 1 singhuday primarygroup 117 Sep 12  2019 GMT-3
--rw-rw-r-- 1 singhuday primarygroup 116 Sep 12  2019 GMT+4
--rw-rw-r-- 1 singhuday primarygroup 117 Sep 12  2019 GMT-4
--rw-rw-r-- 1 singhuday primarygroup 116 Sep 12  2019 GMT+5
--rw-rw-r-- 1 singhuday primarygroup 117 Sep 12  2019 GMT-5
--rw-rw-r-- 1 singhuday primarygroup 116 Sep 12  2019 GMT+6
--rw-rw-r-- 1 singhuday primarygroup 117 Sep 12  2019 GMT-6
--rw-rw-r-- 1 singhuday primarygroup 116 Sep 12  2019 GMT+7
--rw-rw-r-- 1 singhuday primarygroup 117 Sep 12  2019 GMT-7
--rw-rw-r-- 1 singhuday primarygroup 116 Sep 12  2019 GMT+8
--rw-rw-r-- 1 singhuday primarygroup 117 Sep 12  2019 GMT-8
--rw-rw-r-- 1 singhuday primarygroup 116 Sep 12  2019 GMT+9
--rw-rw-r-- 1 singhuday primarygroup 117 Sep 12  2019 GMT-9
--rw-rw-r-- 1 singhuday primarygroup 114 Sep 12  2019 Greenwich
--rw-rw-r-- 1 singhuday primarygroup 114 Sep 12  2019 UCT
--rw-rw-r-- 1 singhuday primarygroup 114 Sep 12  2019 Universal
--rw-rw-r-- 1 singhuday primarygroup 114 Sep 12  2019 UTC
--rw-rw-r-- 1 singhuday primarygroup 114 Sep 12  2019 Zulu
+GMT    GMT+1   GMT+11  GMT+2  GMT+4  GMT+6  GMT+8  GMT-0  GMT-10  GMT-12  GMT-14  GMT-3  GMT-5  GMT-7  GMT-9  Greenwich  UTC        Zulu
+GMT+0  GMT+10  GMT+12  GMT+3  GMT+5  GMT+7  GMT+9  GMT-1  GMT-11  GMT-13  GMT-2   GMT-4  GMT-6  GMT-8  GMT0   UCT        Universal
 
 ./Europe:
-total 156
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 .
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 ..
--rw-rw-r-- 1 singhuday primarygroup 2910 Sep 12  2019 Amsterdam
--rw-rw-r-- 1 singhuday primarygroup 1742 Jun 24  2019 Andorra
--rw-rw-r-- 1 singhuday primarygroup 1165 Sep 12  2019 Astrakhan
--rw-rw-r-- 1 singhuday primarygroup 2262 Jun 24  2019 Athens
--rw-rw-r-- 1 singhuday primarygroup 3648 Sep 12  2019 Belfast
--rw-rw-r-- 1 singhuday primarygroup 1920 Sep 12  2019 Belgrade
--rw-rw-r-- 1 singhuday primarygroup 2298 Sep 12  2019 Berlin
--rw-rw-r-- 1 singhuday primarygroup 2301 Sep 12  2019 Bratislava
--rw-rw-r-- 1 singhuday primarygroup 2933 Sep 12  2019 Brussels
--rw-rw-r-- 1 singhuday primarygroup 2184 Sep 12  2019 Bucharest
--rw-rw-r-- 1 singhuday primarygroup 2368 Sep 12  2019 Budapest
--rw-rw-r-- 1 singhuday primarygroup 1909 Jun 24  2019 Busingen
--rw-rw-r-- 1 singhuday primarygroup 2390 Sep 12  2019 Chisinau
--rw-rw-r-- 1 singhuday primarygroup 2137 Sep 12  2019 Copenhagen
--rw-rw-r-- 1 singhuday primarygroup 3492 Sep 12  2019 Dublin
--rw-rw-r-- 1 singhuday primarygroup 3052 Jun 24  2019 Gibraltar
--rw-rw-r-- 1 singhuday primarygroup 3648 Sep 12  2019 Guernsey
--rw-rw-r-- 1 singhuday primarygroup 1900 Jun 24  2019 Helsinki
--rw-rw-r-- 1 singhuday primarygroup 3648 Sep 12  2019 Isle_of_Man
--rw-rw-r-- 1 singhuday primarygroup 2143 Sep 12  2019 Istanbul
--rw-rw-r-- 1 singhuday primarygroup 3648 Sep 12  2019 Jersey
--rw-rw-r-- 1 singhuday primarygroup 1479 Sep 12  2019 Kaliningrad
--rw-rw-r-- 1 singhuday primarygroup 2088 Jun 24  2019 Kiev
--rw-rw-r-- 1 singhuday primarygroup 1153 Jun 24  2019 Kirov
--rw-rw-r-- 1 singhuday primarygroup 3469 Jun 24  2019 Lisbon
--rw-rw-r-- 1 singhuday primarygroup 1920 Sep 12  2019 Ljubljana
--rw-rw-r-- 1 singhuday primarygroup 3648 Sep 12  2019 London
--rw-rw-r-- 1 singhuday primarygroup 2946 Sep 12  2019 Luxembourg
--rw-rw-r-- 1 singhuday primarygroup 2614 Sep 12  2019 Madrid
--rw-rw-r-- 1 singhuday primarygroup 2620 Jun 24  2019 Malta
--rw-rw-r-- 1 singhuday primarygroup 1900 Jun 24  2019 Mariehamn
--rw-rw-r-- 1 singhuday primarygroup 1321 Sep 12  2019 Minsk
--rw-rw-r-- 1 singhuday primarygroup 2944 Jun 24  2019 Monaco
--rw-rw-r-- 1 singhuday primarygroup 1535 Jun 24  2019 Moscow
--rw-rw-r-- 1 singhuday primarygroup 2002 Jun 24  2019 Nicosia
--rw-rw-r-- 1 singhuday primarygroup 2228 Sep 12  2019 Oslo
--rw-rw-r-- 1 singhuday primarygroup 2962 Jun 24  2019 Paris
--rw-rw-r-- 1 singhuday primarygroup 1920 Sep 12  2019 Podgorica
--rw-rw-r-- 1 singhuday primarygroup 2301 Sep 12  2019 Prague
--rw-rw-r-- 1 singhuday primarygroup 2198 Sep 12  2019 Riga
--rw-rw-r-- 1 singhuday primarygroup 2641 Sep 12  2019 Rome
--rw-rw-r-- 1 singhuday primarygroup 1215 Jun 24  2019 Samara
--rw-rw-r-- 1 singhuday primarygroup 2641 Sep 12  2019 San_Marino
--rw-rw-r-- 1 singhuday primarygroup 1920 Sep 12  2019 Sarajevo
--rw-rw-r-- 1 singhuday primarygroup 1183 Jun 24  2019 Saratov
--rw-rw-r-- 1 singhuday primarygroup 1453 Sep 12  2019 Simferopol
--rw-rw-r-- 1 singhuday primarygroup 1920 Sep 12  2019 Skopje
--rw-rw-r-- 1 singhuday primarygroup 2077 Sep 12  2019 Sofia
--rw-rw-r-- 1 singhuday primarygroup 1909 Jun 24  2019 Stockholm
--rw-rw-r-- 1 singhuday primarygroup 2148 Sep 12  2019 Tallinn
--rw-rw-r-- 1 singhuday primarygroup 2084 Jun 24  2019 Tirane
--rw-rw-r-- 1 singhuday primarygroup 2390 Sep 12  2019 Tiraspol
--rw-rw-r-- 1 singhuday primarygroup 1267 Jun 24  2019 Ulyanovsk
--rw-rw-r-- 1 singhuday primarygroup 2050 Sep 12  2019 Uzhgorod
--rw-rw-r-- 1 singhuday primarygroup 1909 Jun 24  2019 Vaduz
--rw-rw-r-- 1 singhuday primarygroup 2641 Sep 12  2019 Vatican
--rw-rw-r-- 1 singhuday primarygroup 2200 Sep 12  2019 Vienna
--rw-rw-r-- 1 singhuday primarygroup 2162 Sep 12  2019 Vilnius
--rw-rw-r-- 1 singhuday primarygroup 1165 Sep 12  2019 Volgograd
--rw-rw-r-- 1 singhuday primarygroup 2654 Sep 12  2019 Warsaw
--rw-rw-r-- 1 singhuday primarygroup 1920 Sep 12  2019 Zagreb
--rw-rw-r-- 1 singhuday primarygroup 2106 Jun 24  2019 Zaporozhye
--rw-rw-r-- 1 singhuday primarygroup 1909 Jun 24  2019 Zurich
+Amsterdam  Belfast     Brussels   Chisinau    Guernsey     Jersey       Lisbon      Madrid     Monaco   Paris      Rome        Saratov     Stockholm  Ulyanovsk  Vienna     Zagreb
+Andorra    Belgrade    Bucharest  Copenhagen  Helsinki     Kaliningrad  Ljubljana   Malta      Moscow   Podgorica  Samara      Simferopol  Tallinn    Uzhgorod   Vilnius    Zaporozhye
+Astrakhan  Berlin      Budapest   Dublin      Isle_of_Man  Kiev         London      Mariehamn  Nicosia  Prague     San_Marino  Skopje      Tirane     Vaduz      Volgograd  Zurich
+Athens     Bratislava  Busingen   Gibraltar   Istanbul     Kirov        Luxembourg  Minsk      Oslo     Riga       Sarajevo    Sofia       Tiraspol   Vatican    Warsaw
 
 ./Indian:
-total 6
-drwxrwxr-x 1 singhuday primarygroup   0 Jan  1  1970 .
-drwxrwxr-x 1 singhuday primarygroup   0 Jan  1  1970 ..
--rw-rw-r-- 1 singhuday primarygroup 251 Sep 12  2019 Antananarivo
--rw-rw-r-- 1 singhuday primarygroup 199 Sep 12  2019 Chagos
--rw-rw-r-- 1 singhuday primarygroup 165 Sep 12  2019 Christmas
--rw-rw-r-- 1 singhuday primarygroup 174 Sep 12  2019 Cocos
--rw-rw-r-- 1 singhuday primarygroup 251 Sep 12  2019 Comoro
--rw-rw-r-- 1 singhuday primarygroup 165 Sep 12  2019 Kerguelen
--rw-rw-r-- 1 singhuday primarygroup 165 Sep 12  2019 Mahe
--rw-rw-r-- 1 singhuday primarygroup 199 Sep 12  2019 Maldives
--rw-rw-r-- 1 singhuday primarygroup 241 Sep 12  2019 Mauritius
--rw-rw-r-- 1 singhuday primarygroup 251 Sep 12  2019 Mayotte
--rw-rw-r-- 1 singhuday primarygroup 165 Sep 12  2019 Reunion
+Antananarivo  Chagos  Christmas  Cocos  Comoro  Kerguelen  Mahe  Maldives  Mauritius  Mayotte  Reunion
 
 ./Mexico:
-total 6
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 .
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 ..
--rw-rw-r-- 1 singhuday primarygroup 2342 Jun 24  2019 BajaNorte
--rw-rw-r-- 1 singhuday primarygroup 1526 Sep 12  2019 BajaSur
--rw-rw-r-- 1 singhuday primarygroup 1584 Sep 12  2019 General
+BajaNorte  BajaSur  General
 
 ./Pacific:
-total 30
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 .
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 ..
--rw-rw-r-- 1 singhuday primarygroup 1097 Sep 12  2019 Apia
--rw-rw-r-- 1 singhuday primarygroup 2437 Sep 12  2019 Auckland
--rw-rw-r-- 1 singhuday primarygroup  268 Sep 12  2019 Bougainville
--rw-rw-r-- 1 singhuday primarygroup 2068 Sep 12  2019 Chatham
--rw-rw-r-- 1 singhuday primarygroup  269 Sep 12  2019 Chuuk
--rw-rw-r-- 1 singhuday primarygroup 2233 Jun 24  2019 Easter
--rw-rw-r-- 1 singhuday primarygroup  466 Sep 12  2019 Efate
--rw-rw-r-- 1 singhuday primarygroup  234 Sep 12  2019 Enderbury
--rw-rw-r-- 1 singhuday primarygroup  200 Sep 12  2019 Fakaofo
--rw-rw-r-- 1 singhuday primarygroup 1078 Sep 12  2019 Fiji
--rw-rw-r-- 1 singhuday primarygroup  166 Sep 12  2019 Funafuti
--rw-rw-r-- 1 singhuday primarygroup  238 Sep 12  2019 Galapagos
--rw-rw-r-- 1 singhuday primarygroup  164 Sep 12  2019 Gambier
--rw-rw-r-- 1 singhuday primarygroup  166 Sep 12  2019 Guadalcanal
--rw-rw-r-- 1 singhuday primarygroup  494 Sep 12  2019 Guam
--rw-rw-r-- 1 singhuday primarygroup  329 Jun 24  2019 Honolulu
--rw-rw-r-- 1 singhuday primarygroup  329 Jun 24  2019 Johnston
--rw-rw-r-- 1 singhuday primarygroup  238 Sep 12  2019 Kiritimati
--rw-rw-r-- 1 singhuday primarygroup  351 Sep 12  2019 Kosrae
--rw-rw-r-- 1 singhuday primarygroup  316 Sep 12  2019 Kwajalein
--rw-rw-r-- 1 singhuday primarygroup  310 Sep 12  2019 Majuro
--rw-rw-r-- 1 singhuday primarygroup  173 Sep 12  2019 Marquesas
--rw-rw-r-- 1 singhuday primarygroup  175 Sep 12  2019 Midway
--rw-rw-r-- 1 singhuday primarygroup  252 Sep 12  2019 Nauru
--rw-rw-r-- 1 singhuday primarygroup  241 Sep 12  2019 Niue
--rw-rw-r-- 1 singhuday primarygroup  294 Sep 12  2019 Norfolk
--rw-rw-r-- 1 singhuday primarygroup  304 Sep 12  2019 Noumea
--rw-rw-r-- 1 singhuday primarygroup  175 Sep 12  2019 Pago_Pago
--rw-rw-r-- 1 singhuday primarygroup  180 Sep 12  2019 Palau
--rw-rw-r-- 1 singhuday primarygroup  202 Sep 12  2019 Pitcairn
--rw-rw-r-- 1 singhuday primarygroup  303 Sep 12  2019 Pohnpei
--rw-rw-r-- 1 singhuday primarygroup  303 Sep 12  2019 Ponape
--rw-rw-r-- 1 singhuday primarygroup  186 Sep 12  2019 Port_Moresby
--rw-rw-r-- 1 singhuday primarygroup  577 Sep 12  2019 Rarotonga
--rw-rw-r-- 1 singhuday primarygroup  494 Sep 12  2019 Saipan
--rw-rw-r-- 1 singhuday primarygroup  175 Sep 12  2019 Samoa
--rw-rw-r-- 1 singhuday primarygroup  165 Sep 12  2019 Tahiti
--rw-rw-r-- 1 singhuday primarygroup  166 Sep 12  2019 Tarawa
--rw-rw-r-- 1 singhuday primarygroup  372 Sep 12  2019 Tongatapu
--rw-rw-r-- 1 singhuday primarygroup  269 Sep 12  2019 Truk
--rw-rw-r-- 1 singhuday primarygroup  166 Sep 12  2019 Wake
--rw-rw-r-- 1 singhuday primarygroup  166 Sep 12  2019 Wallis
--rw-rw-r-- 1 singhuday primarygroup  269 Sep 12  2019 Yap
+Apia          Chatham  Efate      Fiji       Gambier      Honolulu  Kiritimati  Majuro     Nauru    Noumea     Pitcairn  Port_Moresby  Samoa   Tongatapu  Wallis
+Auckland      Chuuk    Enderbury  Funafuti   Guadalcanal  Johnston  Kosrae      Marquesas  Niue     Pago_Pago  Pohnpei   Rarotonga     Tahiti  Truk       Yap
+Bougainville  Easter   Fakaofo    Galapagos  Guam         Kanton    Kwajalein   Midway     Norfolk  Palau      Ponape    Saipan        Tarawa  Wake
 
 ./US:
-total 26
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 .
-drwxrwxr-x 1 singhuday primarygroup    0 Jan  1  1970 ..
--rw-rw-r-- 1 singhuday primarygroup 2371 Jun 24  2019 Alaska
--rw-rw-r-- 1 singhuday primarygroup 2356 Jun 24  2019 Aleutian
--rw-rw-r-- 1 singhuday primarygroup  328 Sep 12  2019 Arizona
--rw-rw-r-- 1 singhuday primarygroup 3576 Jun 24  2019 Central
--rw-rw-r-- 1 singhuday primarygroup 3536 Jun 24  2019 Eastern
--rw-rw-r-- 1 singhuday primarygroup 1666 Jun 24  2019 East-Indiana
--rw-rw-r-- 1 singhuday primarygroup  329 Jun 24  2019 Hawaii
--rw-rw-r-- 1 singhuday primarygroup 2428 Jun 24  2019 Indiana-Starke
--rw-rw-r-- 1 singhuday primarygroup 2174 Jun 24  2019 Michigan
--rw-rw-r-- 1 singhuday primarygroup 2444 Jun 24  2019 Mountain
--rw-rw-r-- 1 singhuday primarygroup 2836 Jun 24  2019 Pacific
--rw-rw-r-- 1 singhuday primarygroup  175 Sep 12  2019 Samoa
+Alaska  Aleutian  Arizona  Central  East-Indiana  Eastern  Hawaii  Indiana-Starke  Michigan  Mountain  Pacific  Samoa
