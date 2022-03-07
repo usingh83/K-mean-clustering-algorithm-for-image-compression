@@ -1,7 +1,8 @@
 .:
-Africa      Arctic    Australia  CST6CDT  Cuba  EST5EDT  Etc     GB-Eire  GMT-0      HST       Indian  Jamaica    Libya  MST7MDT  NZ-CHAT  PST8PDT  Portugal  Singapore  US         W-SU
-America     Asia      Brazil     Canada   EET   Egypt    Europe  GMT      GMT0       Hongkong  Iran    Japan      MET    Mexico   Navajo   Pacific  ROC       Turkey     UTC        WET
-Antarctica  Atlantic  CET        Chile    EST   Eire     GB      GMT+0    Greenwich  Iceland   Israel  Kwajalein  MST    NZ       PRC      Poland   ROK       UCT        Universal  Zulu
+Africa      Asia       Canada   Cuba   EST      Factory  GMT+0      Hongkong  Iran     Kwajalein  MST      NZ-CHAT   PRC      Singapore  US    Zulu
+America     Atlantic   CET      EET    EST5EDT  GB       GMT-0      HST       Israel   Libya      MST7MDT  Pacific   PST8PDT  Turkey     UTC
+Antarctica  Australia  Chile    Egypt  Etc      GB-Eire  GMT0       Iceland   Jamaica  MET        Navajo   Poland    ROC      UCT        WET
+Arctic      Brazil     CST6CDT  Eire   Europe   GMT      Greenwich  Indian    Japan    Mexico     NZ       Portugal  ROK      Universal  W-SU
 
 ./Africa:
 Abidjan      Asmara  Banjul       Bujumbura   Conakry        Douala    Harare        Khartoum  Libreville  Lusaka  Mbabane    Ndjamena     Porto-Novo  Tunis
@@ -19,9 +20,9 @@ Argentina       Bogota         Coral_Harbour  Edmonton      Guadeloupe  Jujuy   
 Aruba           Boise          Cordoba        Eirunepe      Guatemala   Juneau        Marigot        Montevideo   Pangnirtung     Regina        St_Barthelemy  Tortola
 Asuncion        Buenos_Aires   Costa_Rica     El_Salvador   Guayaquil   Kentucky      Martinique     Montreal     Paramaribo      Resolute      St_Johns       Vancouver
 Atikokan        Cambridge_Bay  Creston        Ensenada      Guyana      Knox_IN       Matamoros      Montserrat   Phoenix         Rio_Branco    St_Kitts       Virgin
-Atka            Campo_Grande   Cuiaba         Fort_Nelson   Halifax     Kralendijk    Mazatlan       Nassau       Port-au-Prince  Rosario       St_Lucia       Whitehorse
-Bahia           Cancun         Curacao        Fort_Wayne    Havana      La_Paz        Mendoza        New_York     Port_of_Spain   Santa_Isabel  St_Thomas      Winnipeg
-Bahia_Banderas  Caracas        Danmarkshavn   Fortaleza     Hermosillo  Lima          Menominee      Nipigon      Porto_Acre      Santarem      St_Vincent     Yakutat
+Atka            Campo_Grande   Cuiaba         Fortaleza     Halifax     Kralendijk    Mazatlan       Nassau       Port-au-Prince  Rosario       St_Lucia       Whitehorse
+Bahia           Cancun         Curacao        Fort_Nelson   Havana      La_Paz        Mendoza        New_York     Porto_Acre      Santa_Isabel  St_Thomas      Winnipeg
+Bahia_Banderas  Caracas        Danmarkshavn   Fort_Wayne    Hermosillo  Lima          Menominee      Nipigon      Port_of_Spain   Santarem      St_Vincent     Yakutat
 
 ./America/Argentina:
 Buenos_Aires  Catamarca  ComodRivadavia  Cordoba  Jujuy  La_Rioja  Mendoza  Rio_Gallegos  Salta  San_Juan  San_Luis  Tucuman  Ushuaia
@@ -51,11 +52,11 @@ Aqtobe    Bangkok    Choibalsan  Dili       Ho_Chi_Minh  Jerusalem  Khandyga   M
 Ashgabat  Barnaul    Chongqing   Dubai      Hong_Kong    Kabul      Kolkata    Magadan       Omsk          Qyzylorda   Shanghai   Tel_Aviv       Ulan_Bator     Yekaterinburg
 
 ./Atlantic:
-Azores  Bermuda  Canary  Cape_Verde  Faeroe  Faroe  Jan_Mayen  Madeira  Reykjavik  South_Georgia  St_Helena  Stanley
+Azores  Bermuda  Canary  Cape_Verde  Faeroe  Faroe  Jan_Mayen  Madeira  Reykjavik  South_Georgia  Stanley  St_Helena
 
 ./Australia:
-ACT       Brisbane     Canberra  Darwin  Hobart  Lindeman   Melbourne  North  Queensland  Sydney    Victoria  Yancowinna
-Adelaide  Broken_Hill  Currie    Eucla   LHI     Lord_Howe  NSW        Perth  South       Tasmania  West
+ACT       Brisbane     Canberra  Darwin  Hobart  Lindeman   Melbourne  NSW    Queensland  Sydney    Victoria  Yancowinna
+Adelaide  Broken_Hill  Currie    Eucla   LHI     Lord_Howe  North      Perth  South       Tasmania  West
 
 ./Brazil:
 Acre  DeNoronha  East  West
@@ -67,8 +68,8 @@ Atlantic  Central  Eastern  Mountain  Newfoundland  Pacific  Saskatchewan  Yukon
 Continental  EasterIsland
 
 ./Etc:
-GMT    GMT+1   GMT+11  GMT+2  GMT+4  GMT+6  GMT+8  GMT-0  GMT-10  GMT-12  GMT-14  GMT-3  GMT-5  GMT-7  GMT-9  Greenwich  UTC        Zulu
-GMT+0  GMT+10  GMT+12  GMT+3  GMT+5  GMT+7  GMT+9  GMT-1  GMT-11  GMT-13  GMT-2   GMT-4  GMT-6  GMT-8  GMT0   UCT        Universal
+GMT    GMT-0  GMT+1  GMT+10  GMT+11  GMT+12  GMT-13  GMT+2  GMT+3  GMT+4  GMT+5  GMT+6  GMT+7  GMT+8  GMT+9  Greenwich  Universal  Zulu
+GMT+0  GMT0   GMT-1  GMT-10  GMT-11  GMT-12  GMT-14  GMT-2  GMT-3  GMT-4  GMT-5  GMT-6  GMT-7  GMT-8  GMT-9  UCT        UTC
 
 ./Europe:
 Amsterdam  Belfast     Brussels   Chisinau    Guernsey     Jersey       Lisbon      Madrid     Monaco   Paris      Rome        Saratov     Stockholm  Ulyanovsk  Vienna     Zagreb
@@ -88,4 +89,4 @@ Auckland      Chuuk    Enderbury  Funafuti   Guadalcanal  Johnston  Kosrae      
 Bougainville  Easter   Fakaofo    Galapagos  Guam         Kanton    Kwajalein   Midway     Norfolk  Palau      Ponape    Saipan        Tarawa  Wake
 
 ./US:
-Alaska  Aleutian  Arizona  Central  East-Indiana  Eastern  Hawaii  Indiana-Starke  Michigan  Mountain  Pacific  Samoa
+Alaska  Aleutian  Arizona  Central  Eastern  East-Indiana  Hawaii  Indiana-Starke  Michigan  Mountain  Pacific  Samoa
